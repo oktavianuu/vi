@@ -5,6 +5,6 @@
 
 ### Normal Mode: Movement (The Vim Language)
 Movement commands are the most freq command we'll use. We can think them as verbs that can combined with other actions such as delete, change or copy.
-|---|---|---|
 |Command|Action|Description|
+|---|---|---|
 |`h, j, k, l`|Move|Left, Down, Up, Right (Home Row)| 
