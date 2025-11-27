@@ -1,0 +1,15 @@
+## Navigation
+- `j` -> scroll down
+- `k` -> scroll up
+- `gg` -> go to first page
+- `G` -> go to last page
+- `nG` -> go to n page (e.g., 50g goes to page 50)
+- commands: we can enter `:` just like in vim and `LaTeX`  where we can type command like `:bmark` for bookmarking and `offset <number>` to set a page number.
+- `J` or `Space` -> next page
+- `K` or `shift + space` -> previous page
+- `/` -> Open the search bar at the bottom
+- `n` -> next result
+- `N` -> previous result
+- `f` -> follow links, highlights all links with a number, then press the number to follow the link.
+- `:` enter command like `:bmark`, `:blist`, `:quit`
+-  
